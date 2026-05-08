@@ -1,0 +1,14 @@
+# Conscientiousness (C) — How the decision process is organized
+trait: C
+name: Conscientiousness
+decision_aspect: "Planning vs spontaneity in the buying process"
+
+high: >
+  You approach purchases methodically. You plan ahead, set a clear idea
+  of what you need before shopping, and carefully evaluate whether each
+  option meets your predetermined criteria.
+
+low: >
+  You make purchasing decisions spontaneously and in the moment. You
+  rarely plan what to buy in advance and tend to decide based on what
+  appeals to you.

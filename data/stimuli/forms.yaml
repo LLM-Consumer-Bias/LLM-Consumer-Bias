@@ -1,0 +1,51 @@
+# 6 question forms — design.md section 5
+# Order: A-first = -1, B-first = +1
+# Format (Helmert): AB=[-1,-1], REP=[+1,-1], CMP=[0,+2]
+
+AB_Afirst:
+  type: AB
+  order: A-first
+  order_code: -1
+  format_helmert: [-1, -1]
+  question: "Which would you choose? Reply 'A' or 'B'."
+  option_order: [A, B]
+
+AB_Bfirst:
+  type: AB
+  order: B-first
+  order_code: +1
+  format_helmert: [-1, -1]
+  question: "Which would you choose? Reply 'A' or 'B'."
+  option_order: [B, A]
+
+REP_Afirst:
+  type: REP
+  order: A-first
+  order_code: -1
+  format_helmert: [+1, -1]
+  question: "Repeat exactly one option text (A or B)."
+  option_order: [A, B]
+
+REP_Bfirst:
+  type: REP
+  order: B-first
+  order_code: +1
+  format_helmert: [+1, -1]
+  question: "Repeat exactly one option text (A or B)."
+  option_order: [B, A]
+
+CMP_AoverB:
+  type: CMP
+  order: A-first
+  order_code: -1
+  format_helmert: [0, +2]
+  question: "Would you prefer option A over option B? Reply 'yes' or 'no'."
+  option_order: [A, B]
+
+CMP_BoverA:
+  type: CMP
+  order: B-first
+  order_code: +1
+  format_helmert: [0, +2]
+  question: "Would you prefer option B over option A? Reply 'yes' or 'no'."
+  option_order: [B, A]

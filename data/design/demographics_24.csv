@@ -1,0 +1,25 @@
+DemoID,Age,Gender,Income,Region,Age_L,Gender_code,Inc_L,Inc_Q,Region_code,Region_text
+D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States
+D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan
+D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States
+D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan
+D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States
+D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan
+D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States
+D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan
+D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States
+D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan
+D11,25,Female,120000,USA,-1,1,1,1,-1,the United States
+D12,25,Female,120000,Japan,-1,1,1,1,1,Japan
+D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States
+D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan
+D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States
+D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan
+D17,55,Male,120000,USA,1,-1,1,1,-1,the United States
+D18,55,Male,120000,Japan,1,-1,1,1,1,Japan
+D19,55,Female,25000,USA,1,1,-1,1,-1,the United States
+D20,55,Female,25000,Japan,1,1,-1,1,1,Japan
+D21,55,Female,65000,USA,1,1,0,-2,-1,the United States
+D22,55,Female,65000,Japan,1,1,0,-2,1,Japan
+D23,55,Female,120000,USA,1,1,1,1,-1,the United States
+D24,55,Female,120000,Japan,1,1,1,1,1,Japan

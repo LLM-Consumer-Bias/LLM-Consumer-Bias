@@ -1,0 +1,14 @@
+# Openness (O) — What to choose: novelty vs familiarity
+trait: O
+name: Openness
+decision_aspect: "Novelty vs familiarity in product choice"
+
+high: >
+  You enjoy exploring new and unfamiliar products. You are drawn to
+  innovative features and unconventional designs, and you like trying
+  brands you haven't used before.
+
+low: >
+  You prefer products you are already familiar with. You tend to
+  repurchase from brands you have used before and favor traditional,
+  well-established designs over novel ones.

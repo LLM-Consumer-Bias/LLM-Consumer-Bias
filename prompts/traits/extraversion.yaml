@@ -1,0 +1,14 @@
+# Extraversion (E) — Where information comes from
+trait: E
+name: Extraversion
+decision_aspect: "Social vs private sources of influence"
+
+high: >
+  You often discuss potential purchases with friends and family. You pay
+  attention to what is popular among people you know and enjoy products
+  that enhance your social experiences.
+
+low: >
+  You make purchasing decisions privately and on your own. You are not
+  particularly influenced by what others are buying and focus primarily
+  on your own personal needs.

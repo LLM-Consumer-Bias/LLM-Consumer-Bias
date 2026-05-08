@@ -1,0 +1,14 @@
+# Mistral mistral-small3.2 — 24B Dense
+model:
+  name: "mistral-small3.2"
+  display_name: "mistral-small3.2"
+  provider: "Mistral"
+  architecture: "Dense"
+  parameters: "24B"
+  gpu: "GPU2"
+  api_url_env: "GPU2_URL"
+  ollama_model: "mistral-small3.2"
+  estimated_latency_sec: 28
+  logprobs_available: null
+  think: false
+  run_order_gpu2: 2          # second — narrative-critical, "persona-responsive"

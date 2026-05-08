@@ -1,0 +1,39 @@
+# Global experiment settings
+# See docs/design.md for full specification
+
+experiment:
+  name: "llm_consumer_segmentation"
+  seed: 20250101
+
+  # Factorial design
+  n_demographics: 24       # 2 Age × 2 Gender × 3 Income × 2 Region
+  n_bigfive: 16            # 2^(5-1) Resolution V
+  n_profiles: 384          # 24 × 16
+  n_scenarios: 5           # including V4 (dominance check)
+  n_versions: 4            # V1–V4 per scenario
+  n_forms: 6               # AB_Afirst, AB_Bfirst, REP_A, REP_B, CMP_A, CMP_B
+  n_replications: 3        # M=3 per task
+
+  # Generation
+  max_tokens: 16           # num_predict for Ollama
+  temperatures: [1.0, 0.0, 0.5] # main + ablation + mid-point
+
+  # Models: 4 (phi4, mistral-small3.2, gemma3-27b, qwen3-32b)
+  # gpt-oss:20b dropped — ignores think:false, ~188s/call infeasible
+  n_models: 4
+
+  # Calls per model per temperature
+  # 384 profiles × 5 scenarios × 6 forms × 3 reps = 34,560
+  calls_per_model: 34560
+
+  # Quality control
+  max_retries: 3
+  invalid_rate_alert: 0.05   # alert if > 5%
+  v4_pass_rate_alert: 0.80   # alert if < 80%
+
+  # Prompt ablation (Phase 5)
+  ablation:
+    conditions: ["A_nl_consumer", "B_structured", "C_coded", "D_general_psych"]
+    models: ["mistral-small3.2", "qwen3-32b"]
+    # 24 demo × 4 B5 × 5 scenarios × 2 forms × 3 reps = 2,880 per condition per model
+    calls_per_condition_per_model: 2880

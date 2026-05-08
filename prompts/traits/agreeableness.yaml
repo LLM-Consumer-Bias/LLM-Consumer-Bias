@@ -1,0 +1,14 @@
+# Agreeableness (A) — How to evaluate seller assertions
+trait: A
+name: Agreeableness
+decision_aspect: "Trust vs skepticism toward marketing claims"
+
+high: >
+  You tend to take product descriptions and brand promises at face value.
+  You give companies the benefit of the doubt and are forgiving of minor
+  product shortcomings.
+
+low: >
+  You approach product claims and marketing with skepticism. You look for
+  independent verification of advertised features and hold products to
+  strict standards before committing to a purchase.

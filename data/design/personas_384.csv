@@ -1,0 +1,385 @@
+ProfileID,DemoID,Age,Gender,Income,Region,Age_L,Gender_code,Inc_L,Inc_Q,Region_code,Region_text,B5ID,O,C,E,A,N
+P001,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B01,-1,-1,-1,-1,1
+P002,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B02,-1,-1,-1,1,-1
+P003,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B03,-1,-1,1,-1,-1
+P004,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B04,-1,-1,1,1,1
+P005,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B05,-1,1,-1,-1,-1
+P006,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B06,-1,1,-1,1,1
+P007,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B07,-1,1,1,-1,1
+P008,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B08,-1,1,1,1,-1
+P009,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B09,1,-1,-1,-1,-1
+P010,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B10,1,-1,-1,1,1
+P011,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B11,1,-1,1,-1,1
+P012,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B12,1,-1,1,1,-1
+P013,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B13,1,1,-1,-1,1
+P014,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B14,1,1,-1,1,-1
+P015,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B15,1,1,1,-1,-1
+P016,D01,25,Male,25000,USA,-1,-1,-1,1,-1,the United States,B16,1,1,1,1,1
+P017,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B01,-1,-1,-1,-1,1
+P018,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B02,-1,-1,-1,1,-1
+P019,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B03,-1,-1,1,-1,-1
+P020,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B04,-1,-1,1,1,1
+P021,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B05,-1,1,-1,-1,-1
+P022,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B06,-1,1,-1,1,1
+P023,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B07,-1,1,1,-1,1
+P024,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B08,-1,1,1,1,-1
+P025,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B09,1,-1,-1,-1,-1
+P026,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B10,1,-1,-1,1,1
+P027,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B11,1,-1,1,-1,1
+P028,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B12,1,-1,1,1,-1
+P029,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B13,1,1,-1,-1,1
+P030,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B14,1,1,-1,1,-1
+P031,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B15,1,1,1,-1,-1
+P032,D02,25,Male,25000,Japan,-1,-1,-1,1,1,Japan,B16,1,1,1,1,1
+P033,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B01,-1,-1,-1,-1,1
+P034,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B02,-1,-1,-1,1,-1
+P035,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B03,-1,-1,1,-1,-1
+P036,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B04,-1,-1,1,1,1
+P037,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B05,-1,1,-1,-1,-1
+P038,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B06,-1,1,-1,1,1
+P039,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B07,-1,1,1,-1,1
+P040,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B08,-1,1,1,1,-1
+P041,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B09,1,-1,-1,-1,-1
+P042,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B10,1,-1,-1,1,1
+P043,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B11,1,-1,1,-1,1
+P044,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B12,1,-1,1,1,-1
+P045,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B13,1,1,-1,-1,1
+P046,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B14,1,1,-1,1,-1
+P047,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B15,1,1,1,-1,-1
+P048,D03,25,Male,65000,USA,-1,-1,0,-2,-1,the United States,B16,1,1,1,1,1
+P049,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B01,-1,-1,-1,-1,1
+P050,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B02,-1,-1,-1,1,-1
+P051,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B03,-1,-1,1,-1,-1
+P052,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B04,-1,-1,1,1,1
+P053,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B05,-1,1,-1,-1,-1
+P054,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B06,-1,1,-1,1,1
+P055,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B07,-1,1,1,-1,1
+P056,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B08,-1,1,1,1,-1
+P057,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B09,1,-1,-1,-1,-1
+P058,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B10,1,-1,-1,1,1
+P059,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B11,1,-1,1,-1,1
+P060,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B12,1,-1,1,1,-1
+P061,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B13,1,1,-1,-1,1
+P062,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B14,1,1,-1,1,-1
+P063,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B15,1,1,1,-1,-1
+P064,D04,25,Male,65000,Japan,-1,-1,0,-2,1,Japan,B16,1,1,1,1,1
+P065,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B01,-1,-1,-1,-1,1
+P066,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B02,-1,-1,-1,1,-1
+P067,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B03,-1,-1,1,-1,-1
+P068,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B04,-1,-1,1,1,1
+P069,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B05,-1,1,-1,-1,-1
+P070,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B06,-1,1,-1,1,1
+P071,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B07,-1,1,1,-1,1
+P072,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B08,-1,1,1,1,-1
+P073,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B09,1,-1,-1,-1,-1
+P074,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B10,1,-1,-1,1,1
+P075,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B11,1,-1,1,-1,1
+P076,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B12,1,-1,1,1,-1
+P077,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B13,1,1,-1,-1,1
+P078,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B14,1,1,-1,1,-1
+P079,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B15,1,1,1,-1,-1
+P080,D05,25,Male,120000,USA,-1,-1,1,1,-1,the United States,B16,1,1,1,1,1
+P081,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B01,-1,-1,-1,-1,1
+P082,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B02,-1,-1,-1,1,-1
+P083,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B03,-1,-1,1,-1,-1
+P084,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B04,-1,-1,1,1,1
+P085,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B05,-1,1,-1,-1,-1
+P086,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B06,-1,1,-1,1,1
+P087,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B07,-1,1,1,-1,1
+P088,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B08,-1,1,1,1,-1
+P089,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B09,1,-1,-1,-1,-1
+P090,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B10,1,-1,-1,1,1
+P091,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B11,1,-1,1,-1,1
+P092,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B12,1,-1,1,1,-1
+P093,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B13,1,1,-1,-1,1
+P094,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B14,1,1,-1,1,-1
+P095,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B15,1,1,1,-1,-1
+P096,D06,25,Male,120000,Japan,-1,-1,1,1,1,Japan,B16,1,1,1,1,1
+P097,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B01,-1,-1,-1,-1,1
+P098,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B02,-1,-1,-1,1,-1
+P099,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B03,-1,-1,1,-1,-1
+P100,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B04,-1,-1,1,1,1
+P101,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B05,-1,1,-1,-1,-1
+P102,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B06,-1,1,-1,1,1
+P103,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B07,-1,1,1,-1,1
+P104,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B08,-1,1,1,1,-1
+P105,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B09,1,-1,-1,-1,-1
+P106,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B10,1,-1,-1,1,1
+P107,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B11,1,-1,1,-1,1
+P108,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B12,1,-1,1,1,-1
+P109,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B13,1,1,-1,-1,1
+P110,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B14,1,1,-1,1,-1
+P111,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B15,1,1,1,-1,-1
+P112,D07,25,Female,25000,USA,-1,1,-1,1,-1,the United States,B16,1,1,1,1,1
+P113,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B01,-1,-1,-1,-1,1
+P114,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B02,-1,-1,-1,1,-1
+P115,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B03,-1,-1,1,-1,-1
+P116,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B04,-1,-1,1,1,1
+P117,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B05,-1,1,-1,-1,-1
+P118,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B06,-1,1,-1,1,1
+P119,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B07,-1,1,1,-1,1
+P120,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B08,-1,1,1,1,-1
+P121,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B09,1,-1,-1,-1,-1
+P122,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B10,1,-1,-1,1,1
+P123,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B11,1,-1,1,-1,1
+P124,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B12,1,-1,1,1,-1
+P125,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B13,1,1,-1,-1,1
+P126,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B14,1,1,-1,1,-1
+P127,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B15,1,1,1,-1,-1
+P128,D08,25,Female,25000,Japan,-1,1,-1,1,1,Japan,B16,1,1,1,1,1
+P129,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B01,-1,-1,-1,-1,1
+P130,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B02,-1,-1,-1,1,-1
+P131,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B03,-1,-1,1,-1,-1
+P132,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B04,-1,-1,1,1,1
+P133,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B05,-1,1,-1,-1,-1
+P134,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B06,-1,1,-1,1,1
+P135,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B07,-1,1,1,-1,1
+P136,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B08,-1,1,1,1,-1
+P137,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B09,1,-1,-1,-1,-1
+P138,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B10,1,-1,-1,1,1
+P139,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B11,1,-1,1,-1,1
+P140,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B12,1,-1,1,1,-1
+P141,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B13,1,1,-1,-1,1
+P142,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B14,1,1,-1,1,-1
+P143,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B15,1,1,1,-1,-1
+P144,D09,25,Female,65000,USA,-1,1,0,-2,-1,the United States,B16,1,1,1,1,1
+P145,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B01,-1,-1,-1,-1,1
+P146,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B02,-1,-1,-1,1,-1
+P147,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B03,-1,-1,1,-1,-1
+P148,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B04,-1,-1,1,1,1
+P149,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B05,-1,1,-1,-1,-1
+P150,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B06,-1,1,-1,1,1
+P151,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B07,-1,1,1,-1,1
+P152,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B08,-1,1,1,1,-1
+P153,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B09,1,-1,-1,-1,-1
+P154,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B10,1,-1,-1,1,1
+P155,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B11,1,-1,1,-1,1
+P156,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B12,1,-1,1,1,-1
+P157,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B13,1,1,-1,-1,1
+P158,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B14,1,1,-1,1,-1
+P159,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B15,1,1,1,-1,-1
+P160,D10,25,Female,65000,Japan,-1,1,0,-2,1,Japan,B16,1,1,1,1,1
+P161,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B01,-1,-1,-1,-1,1
+P162,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B02,-1,-1,-1,1,-1
+P163,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B03,-1,-1,1,-1,-1
+P164,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B04,-1,-1,1,1,1
+P165,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B05,-1,1,-1,-1,-1
+P166,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B06,-1,1,-1,1,1
+P167,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B07,-1,1,1,-1,1
+P168,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B08,-1,1,1,1,-1
+P169,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B09,1,-1,-1,-1,-1
+P170,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B10,1,-1,-1,1,1
+P171,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B11,1,-1,1,-1,1
+P172,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B12,1,-1,1,1,-1
+P173,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B13,1,1,-1,-1,1
+P174,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B14,1,1,-1,1,-1
+P175,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B15,1,1,1,-1,-1
+P176,D11,25,Female,120000,USA,-1,1,1,1,-1,the United States,B16,1,1,1,1,1
+P177,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B01,-1,-1,-1,-1,1
+P178,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B02,-1,-1,-1,1,-1
+P179,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B03,-1,-1,1,-1,-1
+P180,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B04,-1,-1,1,1,1
+P181,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B05,-1,1,-1,-1,-1
+P182,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B06,-1,1,-1,1,1
+P183,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B07,-1,1,1,-1,1
+P184,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B08,-1,1,1,1,-1
+P185,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B09,1,-1,-1,-1,-1
+P186,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B10,1,-1,-1,1,1
+P187,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B11,1,-1,1,-1,1
+P188,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B12,1,-1,1,1,-1
+P189,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B13,1,1,-1,-1,1
+P190,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B14,1,1,-1,1,-1
+P191,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B15,1,1,1,-1,-1
+P192,D12,25,Female,120000,Japan,-1,1,1,1,1,Japan,B16,1,1,1,1,1
+P193,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B01,-1,-1,-1,-1,1
+P194,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B02,-1,-1,-1,1,-1
+P195,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B03,-1,-1,1,-1,-1
+P196,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B04,-1,-1,1,1,1
+P197,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B05,-1,1,-1,-1,-1
+P198,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B06,-1,1,-1,1,1
+P199,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B07,-1,1,1,-1,1
+P200,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B08,-1,1,1,1,-1
+P201,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B09,1,-1,-1,-1,-1
+P202,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B10,1,-1,-1,1,1
+P203,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B11,1,-1,1,-1,1
+P204,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B12,1,-1,1,1,-1
+P205,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B13,1,1,-1,-1,1
+P206,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B14,1,1,-1,1,-1
+P207,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B15,1,1,1,-1,-1
+P208,D13,55,Male,25000,USA,1,-1,-1,1,-1,the United States,B16,1,1,1,1,1
+P209,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B01,-1,-1,-1,-1,1
+P210,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B02,-1,-1,-1,1,-1
+P211,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B03,-1,-1,1,-1,-1
+P212,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B04,-1,-1,1,1,1
+P213,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B05,-1,1,-1,-1,-1
+P214,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B06,-1,1,-1,1,1
+P215,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B07,-1,1,1,-1,1
+P216,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B08,-1,1,1,1,-1
+P217,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B09,1,-1,-1,-1,-1
+P218,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B10,1,-1,-1,1,1
+P219,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B11,1,-1,1,-1,1
+P220,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B12,1,-1,1,1,-1
+P221,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B13,1,1,-1,-1,1
+P222,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B14,1,1,-1,1,-1
+P223,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B15,1,1,1,-1,-1
+P224,D14,55,Male,25000,Japan,1,-1,-1,1,1,Japan,B16,1,1,1,1,1
+P225,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B01,-1,-1,-1,-1,1
+P226,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B02,-1,-1,-1,1,-1
+P227,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B03,-1,-1,1,-1,-1
+P228,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B04,-1,-1,1,1,1
+P229,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B05,-1,1,-1,-1,-1
+P230,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B06,-1,1,-1,1,1
+P231,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B07,-1,1,1,-1,1
+P232,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B08,-1,1,1,1,-1
+P233,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B09,1,-1,-1,-1,-1
+P234,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B10,1,-1,-1,1,1
+P235,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B11,1,-1,1,-1,1
+P236,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B12,1,-1,1,1,-1
+P237,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B13,1,1,-1,-1,1
+P238,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B14,1,1,-1,1,-1
+P239,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B15,1,1,1,-1,-1
+P240,D15,55,Male,65000,USA,1,-1,0,-2,-1,the United States,B16,1,1,1,1,1
+P241,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B01,-1,-1,-1,-1,1
+P242,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B02,-1,-1,-1,1,-1
+P243,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B03,-1,-1,1,-1,-1
+P244,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B04,-1,-1,1,1,1
+P245,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B05,-1,1,-1,-1,-1
+P246,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B06,-1,1,-1,1,1
+P247,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B07,-1,1,1,-1,1
+P248,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B08,-1,1,1,1,-1
+P249,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B09,1,-1,-1,-1,-1
+P250,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B10,1,-1,-1,1,1
+P251,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B11,1,-1,1,-1,1
+P252,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B12,1,-1,1,1,-1
+P253,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B13,1,1,-1,-1,1
+P254,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B14,1,1,-1,1,-1
+P255,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B15,1,1,1,-1,-1
+P256,D16,55,Male,65000,Japan,1,-1,0,-2,1,Japan,B16,1,1,1,1,1
+P257,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B01,-1,-1,-1,-1,1
+P258,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B02,-1,-1,-1,1,-1
+P259,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B03,-1,-1,1,-1,-1
+P260,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B04,-1,-1,1,1,1
+P261,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B05,-1,1,-1,-1,-1
+P262,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B06,-1,1,-1,1,1
+P263,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B07,-1,1,1,-1,1
+P264,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B08,-1,1,1,1,-1
+P265,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B09,1,-1,-1,-1,-1
+P266,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B10,1,-1,-1,1,1
+P267,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B11,1,-1,1,-1,1
+P268,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B12,1,-1,1,1,-1
+P269,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B13,1,1,-1,-1,1
+P270,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B14,1,1,-1,1,-1
+P271,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B15,1,1,1,-1,-1
+P272,D17,55,Male,120000,USA,1,-1,1,1,-1,the United States,B16,1,1,1,1,1
+P273,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B01,-1,-1,-1,-1,1
+P274,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B02,-1,-1,-1,1,-1
+P275,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B03,-1,-1,1,-1,-1
+P276,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B04,-1,-1,1,1,1
+P277,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B05,-1,1,-1,-1,-1
+P278,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B06,-1,1,-1,1,1
+P279,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B07,-1,1,1,-1,1
+P280,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B08,-1,1,1,1,-1
+P281,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B09,1,-1,-1,-1,-1
+P282,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B10,1,-1,-1,1,1
+P283,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B11,1,-1,1,-1,1
+P284,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B12,1,-1,1,1,-1
+P285,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B13,1,1,-1,-1,1
+P286,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B14,1,1,-1,1,-1
+P287,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B15,1,1,1,-1,-1
+P288,D18,55,Male,120000,Japan,1,-1,1,1,1,Japan,B16,1,1,1,1,1
+P289,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B01,-1,-1,-1,-1,1
+P290,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B02,-1,-1,-1,1,-1
+P291,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B03,-1,-1,1,-1,-1
+P292,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B04,-1,-1,1,1,1
+P293,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B05,-1,1,-1,-1,-1
+P294,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B06,-1,1,-1,1,1
+P295,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B07,-1,1,1,-1,1
+P296,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B08,-1,1,1,1,-1
+P297,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B09,1,-1,-1,-1,-1
+P298,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B10,1,-1,-1,1,1
+P299,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B11,1,-1,1,-1,1
+P300,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B12,1,-1,1,1,-1
+P301,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B13,1,1,-1,-1,1
+P302,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B14,1,1,-1,1,-1
+P303,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B15,1,1,1,-1,-1
+P304,D19,55,Female,25000,USA,1,1,-1,1,-1,the United States,B16,1,1,1,1,1
+P305,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B01,-1,-1,-1,-1,1
+P306,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B02,-1,-1,-1,1,-1
+P307,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B03,-1,-1,1,-1,-1
+P308,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B04,-1,-1,1,1,1
+P309,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B05,-1,1,-1,-1,-1
+P310,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B06,-1,1,-1,1,1
+P311,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B07,-1,1,1,-1,1
+P312,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B08,-1,1,1,1,-1
+P313,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B09,1,-1,-1,-1,-1
+P314,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B10,1,-1,-1,1,1
+P315,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B11,1,-1,1,-1,1
+P316,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B12,1,-1,1,1,-1
+P317,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B13,1,1,-1,-1,1
+P318,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B14,1,1,-1,1,-1
+P319,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B15,1,1,1,-1,-1
+P320,D20,55,Female,25000,Japan,1,1,-1,1,1,Japan,B16,1,1,1,1,1
+P321,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B01,-1,-1,-1,-1,1
+P322,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B02,-1,-1,-1,1,-1
+P323,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B03,-1,-1,1,-1,-1
+P324,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B04,-1,-1,1,1,1
+P325,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B05,-1,1,-1,-1,-1
+P326,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B06,-1,1,-1,1,1
+P327,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B07,-1,1,1,-1,1
+P328,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B08,-1,1,1,1,-1
+P329,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B09,1,-1,-1,-1,-1
+P330,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B10,1,-1,-1,1,1
+P331,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B11,1,-1,1,-1,1
+P332,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B12,1,-1,1,1,-1
+P333,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B13,1,1,-1,-1,1
+P334,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B14,1,1,-1,1,-1
+P335,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B15,1,1,1,-1,-1
+P336,D21,55,Female,65000,USA,1,1,0,-2,-1,the United States,B16,1,1,1,1,1
+P337,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B01,-1,-1,-1,-1,1
+P338,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B02,-1,-1,-1,1,-1
+P339,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B03,-1,-1,1,-1,-1
+P340,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B04,-1,-1,1,1,1
+P341,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B05,-1,1,-1,-1,-1
+P342,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B06,-1,1,-1,1,1
+P343,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B07,-1,1,1,-1,1
+P344,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B08,-1,1,1,1,-1
+P345,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B09,1,-1,-1,-1,-1
+P346,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B10,1,-1,-1,1,1
+P347,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B11,1,-1,1,-1,1
+P348,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B12,1,-1,1,1,-1
+P349,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B13,1,1,-1,-1,1
+P350,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B14,1,1,-1,1,-1
+P351,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B15,1,1,1,-1,-1
+P352,D22,55,Female,65000,Japan,1,1,0,-2,1,Japan,B16,1,1,1,1,1
+P353,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B01,-1,-1,-1,-1,1
+P354,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B02,-1,-1,-1,1,-1
+P355,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B03,-1,-1,1,-1,-1
+P356,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B04,-1,-1,1,1,1
+P357,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B05,-1,1,-1,-1,-1
+P358,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B06,-1,1,-1,1,1
+P359,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B07,-1,1,1,-1,1
+P360,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B08,-1,1,1,1,-1
+P361,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B09,1,-1,-1,-1,-1
+P362,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B10,1,-1,-1,1,1
+P363,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B11,1,-1,1,-1,1
+P364,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B12,1,-1,1,1,-1
+P365,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B13,1,1,-1,-1,1
+P366,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B14,1,1,-1,1,-1
+P367,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B15,1,1,1,-1,-1
+P368,D23,55,Female,120000,USA,1,1,1,1,-1,the United States,B16,1,1,1,1,1
+P369,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B01,-1,-1,-1,-1,1
+P370,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B02,-1,-1,-1,1,-1
+P371,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B03,-1,-1,1,-1,-1
+P372,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B04,-1,-1,1,1,1
+P373,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B05,-1,1,-1,-1,-1
+P374,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B06,-1,1,-1,1,1
+P375,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B07,-1,1,1,-1,1
+P376,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B08,-1,1,1,1,-1
+P377,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B09,1,-1,-1,-1,-1
+P378,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B10,1,-1,-1,1,1
+P379,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B11,1,-1,1,-1,1
+P380,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B12,1,-1,1,1,-1
+P381,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B13,1,1,-1,-1,1
+P382,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B14,1,1,-1,1,-1
+P383,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B15,1,1,1,-1,-1
+P384,D24,55,Female,120000,Japan,1,1,1,1,1,Japan,B16,1,1,1,1,1

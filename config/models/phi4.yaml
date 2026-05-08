@@ -1,0 +1,14 @@
+# Microsoft phi4 — 14.7B Dense
+model:
+  name: "phi4"
+  display_name: "phi4"
+  provider: "Microsoft"
+  architecture: "Dense"
+  parameters: "14.7B"
+  gpu: "GPU2"
+  api_url_env: "GPU2_URL"   # resolves via .env
+  ollama_model: "phi4"
+  estimated_latency_sec: 5
+  logprobs_available: null   # determine via smoke test
+  think: false
+  run_order_gpu2: 1          # first on GPU2 (fastest, pipeline validation)

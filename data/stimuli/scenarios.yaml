@@ -1,0 +1,171 @@
+S1:
+  name: Smartphone
+  context: You are choosing a new smartphone for everyday use. Compare the options
+    and pick the one you would buy.
+  fixed_attr: 'Warranty: 2 years'
+  domain: Tech
+  involvement: High
+  involvement_code: 1
+  versions:
+    V1:
+      option_a: 'Price: $449; Camera: 48 MP; Battery: 5,000 mAh; Warranty: 2 years.'
+      option_b: 'Price: $599; Camera: 64 MP; Battery: 5,500 mAh; Warranty: 2 years.'
+      price_gap_pct: 33
+      dominance: false
+    V2:
+      option_a: 'Price: $399; Camera: 48 MP; Battery: 4,500 mAh; Warranty: 2 years.'
+      option_b: 'Price: $749; Camera: 108 MP; Battery: 5,500 mAh; Warranty: 2 years.'
+      price_gap_pct: 88
+      dominance: false
+    V3:
+      option_a: 'Price: $399; Camera: 48 MP; Battery: 4,500 mAh; Warranty: 2 years.'
+      option_b: 'Price: $899; Camera: 200 MP; Battery: 6,000 mAh; Warranty: 2 years.'
+      price_gap_pct: 125
+      dominance: false
+    V4:
+      option_a: 'Price: $499; Camera: 108 MP; Battery: 5,500 mAh; Warranty: 2 years.'
+      option_b: 'Price: $699; Camera: 64 MP; Battery: 5,000 mAh; Warranty: 2 years.'
+      price_gap_pct: -1
+      dominance: true
+S2:
+  name: Laptop
+  context: You are choosing a new laptop for work and personal use. Compare the options
+    and pick the one you would buy.
+  fixed_attr: 'Screen: 15.6 inches, IPS display'
+  domain: Tech
+  involvement: High
+  involvement_code: 2
+  versions:
+    V1:
+      option_a: 'Price: $699; Processor: Intel i5; RAM: 8 GB; Screen: 15.6 inches,
+        IPS display.'
+      option_b: 'Price: $999; Processor: Intel i7; RAM: 16 GB; Screen: 15.6 inches,
+        IPS display.'
+      price_gap_pct: 43
+      dominance: false
+    V2:
+      option_a: 'Price: $699; Processor: Intel i5; RAM: 8 GB; Screen: 15.6 inches,
+        IPS display.'
+      option_b: 'Price: $1,199; Processor: Intel i7; RAM: 32 GB; Screen: 15.6 inches,
+        IPS display.'
+      price_gap_pct: 72
+      dominance: false
+    V3:
+      option_a: 'Price: $649; Processor: Intel i5; RAM: 8 GB; Screen: 15.6 inches,
+        IPS display.'
+      option_b: 'Price: $1,449; Processor: Intel i9; RAM: 32 GB; Screen: 15.6 inches,
+        IPS display.'
+      price_gap_pct: 123
+      dominance: false
+    V4:
+      option_a: 'Price: $799; Processor: Intel i7; RAM: 16 GB; Screen: 15.6 inches,
+        IPS display.'
+      option_b: 'Price: $1,099; Processor: Intel i5; RAM: 8 GB; Screen: 15.6 inches,
+        IPS display.'
+      price_gap_pct: -1
+      dominance: true
+S3:
+  name: Wireless Headphones
+  context: You are choosing new wireless headphones for daily use. Compare the options
+    and pick the one you would buy.
+  fixed_attr: 'Battery life: 30 hours'
+  domain: Tech/Lifestyle
+  involvement: Medium-High
+  involvement_code: 0
+  versions:
+    V1:
+      option_a: 'Price: $69; Driver: 30 mm; ANC: basic; Battery life: 30 hours.'
+      option_b: 'Price: $99; Driver: 40 mm; ANC: adaptive; Battery life: 30 hours.'
+      price_gap_pct: 43
+      dominance: false
+    V2:
+      option_a: 'Price: $59; Driver: 30 mm; ANC: basic; Battery life: 30 hours.'
+      option_b: 'Price: $149; Driver: 40 mm; ANC: adaptive, multipoint; Battery life:
+        30 hours.'
+      price_gap_pct: 153
+      dominance: false
+    V3:
+      option_a: 'Price: $59; Driver: 30 mm; ANC: none; Battery life: 30 hours.'
+      option_b: 'Price: $199; Driver: 50 mm; ANC: adaptive, multipoint; Battery life:
+        30 hours.'
+      price_gap_pct: 237
+      dominance: false
+    V4:
+      option_a: 'Price: $79; Driver: 40 mm; ANC: adaptive; Battery life: 30 hours.'
+      option_b: 'Price: $129; Driver: 30 mm; ANC: basic; Battery life: 30 hours.'
+      price_gap_pct: -1
+      dominance: true
+S4:
+  name: Winter Jacket
+  context: You are choosing a new winter jacket. Compare the options and pick the
+    one you would buy.
+  fixed_attr: 'Waterproof: yes, sealed seams'
+  domain: Apparel
+  involvement: Medium
+  involvement_code: -1
+  versions:
+    V1:
+      option_a: 'Price: $89; Insulation: synthetic 150g; Weight: 850 g; Waterproof:
+        yes, sealed seams.'
+      option_b: 'Price: $139; Insulation: synthetic 200g; Weight: 650 g; Waterproof:
+        yes, sealed seams.'
+      price_gap_pct: 56
+      dominance: false
+    V2:
+      option_a: 'Price: $79; Insulation: synthetic 150g; Weight: 900 g; Waterproof:
+        yes, sealed seams.'
+      option_b: 'Price: $189; Insulation: down 600-fill; Weight: 550 g; Waterproof:
+        yes, sealed seams.'
+      price_gap_pct: 139
+      dominance: false
+    V3:
+      option_a: 'Price: $79; Insulation: synthetic 100g; Weight: 950 g; Waterproof:
+        yes, sealed seams.'
+      option_b: 'Price: $269; Insulation: down 800-fill; Weight: 450 g; Waterproof:
+        yes, sealed seams.'
+      price_gap_pct: 241
+      dominance: false
+    V4:
+      option_a: 'Price: $109; Insulation: down 600-fill; Weight: 550 g; Waterproof:
+        yes, sealed seams.'
+      option_b: 'Price: $179; Insulation: synthetic 150g; Weight: 800 g; Waterproof:
+        yes, sealed seams.'
+      price_gap_pct: -1
+      dominance: true
+S5:
+  name: Electric Toothbrush
+  context: You are choosing a new electric toothbrush. Compare the options and pick
+    the one you would buy.
+  fixed_attr: Includes 1 replacement brush head
+  domain: Health/Hygiene
+  involvement: Low
+  involvement_code: -2
+  versions:
+    V1:
+      option_a: 'Price: $29; Battery: 2 weeks; Modes: 2 (clean, sensitive); Includes
+        1 replacement brush head.'
+      option_b: 'Price: $49; Battery: 3 weeks; Modes: 3 (clean, sensitive, whitening);
+        Includes 1 replacement brush head.'
+      price_gap_pct: 69
+      dominance: false
+    V2:
+      option_a: 'Price: $25; Battery: 2 weeks; Modes: 1 (clean); Includes 1 replacement
+        brush head.'
+      option_b: 'Price: $59; Battery: 4 weeks; Modes: 4 (clean, sensitive, whitening,
+        gum care); Includes 1 replacement brush head.'
+      price_gap_pct: 136
+      dominance: false
+    V3:
+      option_a: 'Price: $25; Battery: 2 weeks; Modes: 1 (clean); Includes 1 replacement
+        brush head.'
+      option_b: 'Price: $89; Battery: 6 weeks; Modes: 5 + pressure sensor + travel
+        case; Includes 1 replacement brush head.'
+      price_gap_pct: 256
+      dominance: false
+    V4:
+      option_a: 'Price: $35; Battery: 4 weeks; Modes: 3 (clean, sensitive, whitening);
+        Includes 1 replacement brush head.'
+      option_b: 'Price: $55; Battery: 2 weeks; Modes: 2 (clean, sensitive); Includes
+        1 replacement brush head.'
+      price_gap_pct: -1
+      dominance: true

@@ -1,0 +1,27 @@
+# Environment
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Data (large files — download separately or reproduce via scripts)
+data/raw/
+
+# Generated outputs (reproduce via scripts)
+results/
+figures/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/

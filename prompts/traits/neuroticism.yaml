@@ -1,0 +1,14 @@
+# Neuroticism (N) — Emotional relationship to the decision
+trait: N
+name: Neuroticism
+decision_aspect: "Confidence vs worry after purchase"
+
+high: >
+  You often worry about whether you are making the right purchasing
+  decision. Even after buying something, you may wonder whether you
+  should have chosen a different option.
+
+low: >
+  You rarely worry about your purchasing decisions. Once you have made
+  a choice, you do not second-guess yourself and feel confident it was
+  the right one.

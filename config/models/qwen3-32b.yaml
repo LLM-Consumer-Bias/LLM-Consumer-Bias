@@ -1,0 +1,14 @@
+# Alibaba qwen3:32b — 32.8B Dense
+model:
+  name: "qwen3-32b"
+  display_name: "qwen3:32b"
+  provider: "Alibaba"
+  architecture: "Dense"
+  parameters: "32.8B"
+  gpu: "GPU3"
+  api_url_env: "GPU3_URL"
+  ollama_model: "qwen3:32b"
+  estimated_latency_sec: 15
+  logprobs_available: null
+  think: false               # disable thinking mode — want direct A/B answer
+  run_order_gpu3: 1          # only model on GPU3
